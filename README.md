@@ -35,8 +35,5 @@ response: {"numberidentity":{"number":"+446543211234","validity":"false","carrie
 status code: 200
 response: {"numberidentity":{"number":"+18136375000","validity":"true","carrier_id":"21568","carrier_name":"ZIPWHIP\/FRONTIER COMMUNICATIONS SMSENABLED - FRONTIER COMMUNICATIONS - SYNIVERSE","number_type":"L","country_iso_code":"USA","country":"United States","account_type":"","last_known_event":"Ported","porting_date":"2008-05-09T00:00Z","previous_carrier_id":"","previous_carrier_name":""},"tracking_id":"200290035881499172654492"}
 
-status code: 200
-response: {"numberidentity":{"number":"+18133824424","validity":"true","number_type":"M","country_iso_code":"USA","country":"United States","carrier_mcc":"310","carrier_mnc":"150","account_type":"","last_known_event":"Deactivated","previous_carrier_id":"1025","previous_carrier_name":"AT&T WIRELESS","deactivation_date":"2012-10-06T00:00Z"},"tracking_id":"200290035881499172655096"}
-
 Process finished with exit code 0
 
