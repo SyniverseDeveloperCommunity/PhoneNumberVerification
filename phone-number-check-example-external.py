@@ -16,8 +16,7 @@ number_list = ['+447860438585',
                '+447513005998',
                '+442079202200',
                '+446543211234',
-               '+18136375000',
-               '+18133824424']
+               '+18136375000']
 
 # this is the base url for the phone number verification service, last element in url is
 # replaced with the encoded phone number in international format.
