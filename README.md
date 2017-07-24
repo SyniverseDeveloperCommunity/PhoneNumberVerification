@@ -1,5 +1,5 @@
 # PhoneNumberVerification
-Example code for using the Phone Number Verification Sefvice
+Example code for using the Phone Number Verification Service
 
 By downloading the attached file and adding the Access token for your SDC application 
 you can quickly try out the Syniverse Phone number Verification API.
