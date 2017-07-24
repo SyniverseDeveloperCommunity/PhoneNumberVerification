@@ -8,11 +8,11 @@ You will first need to have an account (create at https://developer.syniverse.co
 
 Secondly you will need to have subscribed to the Service Offerings for Developer Community Gateway and Phone Number Verification. 
 
-Do this by going to the Service Offerings tab, clicking on each service in turn, click on Subscriptions, Click on Subscribe and then select an account from the drop down. 
+Do this by going to the Service Offerings tab (https://developer.syniverse.com/index.html#!/service-offerings) , clicking on each service in turn, click on Subscriptions, Click on Subscribe and then select an account from the drop down. 
 
 Thirdly you will need to create an application (or update an existing Application ) 
 
-Do this by going to the Applications tab, click on New application and follow the instructions. 
+Do this by going to the Applications tab (https://developer.syniverse.com/index.html#!/applications), click on New application and follow the instructions. 
 You also need to add (or update) the Account & APIs section to turn on the SDC Gateway Services and Phone Number Verifications Service
 Lastly re-generate the Auth Keys, and then copy your Access token for use in the Code.
 
